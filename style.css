@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+
+* {
+    font-family: "Titillium Web", sans-serif;
+}
+
+.bg-color {
+    background: #F5F5F5;
+}
+
+.navbar .navbar-brand {
+    font-size: 30px;
+}
+
+.navbar .nav-item {
+    padding: 10px 20px;
+}
+
+.navbar .nav-link {
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+
+}
+
+
+
+/* Style the active class (and buttons on mouse-over) */
+
+
+
+.active,
+.nav-link:hover {
+    color: #E41919 !important;
+}
